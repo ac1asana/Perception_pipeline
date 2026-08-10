@@ -1,0 +1,9 @@
+D405 Static Depth Stability Experiment
+=====================================
+
+Frames: 100
+Mean depth: 82.400 mm
+Standard deviation: 0.000 mm
+Minimum: 82.400 mm
+Maximum: 82.400 mm
+Range: 0.000 mm

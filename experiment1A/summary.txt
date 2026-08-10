@@ -1,0 +1,23 @@
+D405 Experiment 1A - Static Depth Stability
+============================================
+
+Reference distance: approximately 81 mm
+Number of frames: 100
+
+CENTRE PIXEL
+Mean: 156.2080 mm
+Std: 0.1674 mm
+Min: 155.8000 mm
+Max: 156.6000 mm
+
+ROI MEAN
+Mean: 156.2875 mm
+Std: 0.1573 mm
+Min: 155.8827 mm
+Max: 156.6560 mm
+
+ROI MEDIAN
+Mean: 156.2200 mm
+Std: 0.1581 mm
+Min: 155.8000 mm
+Max: 156.6000 mm
