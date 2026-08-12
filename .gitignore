@@ -1,0 +1,5 @@
+demo/
+venv/
+*.so
+*.png
+__pycache__/
